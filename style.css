@@ -17,7 +17,7 @@ HEADER
 header{
     background-color: aqua;
     height: 100px;
-    margin-bottom: 27px;
+
 }
 
 /*
@@ -39,12 +39,13 @@ main{
 main>#top_section{
     background-color: brown;
     height: 502px;
-    margin-bottom: 45px;
+    margin-bottom: 24px;
 }
 main>#central_section{
     background-color: darkorange;
-    height: 57px;
-    margin-bottom: 40px;
+    height: 100px;
+    margin-bottom: 24px;
+
 }
 main>#bottom_section{
     background-color: rgb(143, 231, 165);
